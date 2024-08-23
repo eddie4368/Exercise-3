@@ -28,7 +28,7 @@ namespace ConsoleApp1
             double Total = Principal * Rate * Time;
             Console.WriteLine("Total interest of Loan:" + Total + " dollars.");
             Console.ReadLine();
-            // i put Console.ReadLine(); it would not let you see the final answer for less than a second
+            // i put Console.ReadLine(); Because it would not let you see the final answer for less than a second
 
 
         }
